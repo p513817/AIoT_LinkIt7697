@@ -1,6 +1,8 @@
 # AIoT_LinkIt7697
 AIoT project with LinkIt 7697 and Notebook
 
+![image](Figures/AI_MCS_LINE.gif)
+
 | 作者 | Chia-Chun, Chang |
 | ---- | ---|
 | 所屬單位  | Cavedu 教育團隊 |
