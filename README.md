@@ -7,6 +7,10 @@ AIoT project with LinkIt 7697 and Notebook
 | 開發日期  | 10910 |
 | 資源連結  | https://reurl.cc/7oEzNk |
 
-### TRANSFER LEARNING
+### FlowChart
+![image](Figures/flowchart.jpg)
+
+
+### DEMO
 ![image](Figures/AI_MCS_LINE.gif)
 
