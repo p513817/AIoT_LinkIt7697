@@ -16,6 +16,6 @@ AIoT project with LinkIt 7697 and Notebook
 
 ---
 
-### DEMO
-![image](Figures/AI_MCS_LINE.gif)
+### Other Application
+![image](Figures/DEMO.gif)
 
